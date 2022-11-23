@@ -1,0 +1,18 @@
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.vbproj.AssemblyReference.cache
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.vbproj.SuggestedBindingRedirects.cache
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex_Update_Software.Anasayfa.resources
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex_Update_Software.Resources.resources
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.vbproj.GenerateResource.cache
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.vbproj.CoreCompileInputs.cache
+E:\Hex Update Software\Hex Update Software\bin\Debug\Hex Update Software.exe.config
+E:\Hex Update Software\Hex Update Software\bin\Debug\Hex Update Software.exe
+E:\Hex Update Software\Hex Update Software\bin\Debug\Hex Update Software.pdb
+E:\Hex Update Software\Hex Update Software\bin\Debug\Hex Update Software.xml
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.exe
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.xml
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.pdb
+E:\Hex Update Software\Hex Update Software\bin\Debug\Argeoloji Usb HID Library.dll
+E:\Hex Update Software\Hex Update Software\bin\Debug\Argeoloji Usb HID Library.pdb
+E:\Hex Update Software\Hex Update Software\bin\Debug\Argeoloji Usb HID Library.xml
+E:\Hex Update Software\Hex Update Software\bin\Debug\Argeoloji Usb HID Library.dll.config
+E:\Hex Update Software\Hex Update Software\obj\Debug\Hex Update Software.vbproj.CopyComplete
